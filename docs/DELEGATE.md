@@ -10,9 +10,9 @@ Once your wallet is unlocked, click the “**Stakes**” tab of the menu and cli
 
 <a href="url"><img src="./images/stake_tab.png" align="center" ></a>
 
-In the **Guardian Node Holder (Summary)** field, enter “**Summary**” text from GPooL Delegation page.
+In the **Guardian Node Holder (Summary)** field, enter “**Summary**” text from Node-Alliance Delegation page.
 
-```0x88884a84D980bbfB7588888126fb903486Bb8888ad5081ea3b105525ab3592a5e8e26c4b36478bd29afe42e7d568e6f03b6cf0004d2def129f1fd2c06d40410b2c7ae5faa7b487051447b6a599555b9e5ec765e172ea7be720553b4061e70e61811539e017b6f3990a32ca7804dd303370b5b0fb12efb840a3ed8e6e57411f1985bb2501bd900b05b43d337bb4ce193043fce207cd82b1cc70cf7dcfcdab521cde481e993dff4456dc7aa96a37e93ae92806431c31384d73095b7987b1817d4f3ac2f06a4dbf91f43a3c153624b9f3eb2b8941c4b7cf617af8d67f1f539e217dd9fbcb7e01```\
+```0xdFC83D99F3A3a1767d9464124071C7227c02EB5daaa059e92ec32867509e3683f8e06306ce6e422c69dad5b22317da714de500b4540a0f39df7bcd5ba767ac0a4fb6b33681f415874e9e875fd8e8de6a24f518ab118b5d7cfee2a75ebe2e86a89ca7545386ac4ae961e7f8adc86467393b2f117812e705bb108f80086265ab0d62e8b1a5be9d6bee6e010a11fd9324fab688a0943742b2d9717a904bc5105b357b1feab688773a14fa7e05fb08c610969a591f7f396fc0a8c4e46ae9fa8e24d9b30769b1397477fd484a2ef8442a3ce64fd2665cc29d3d6c29a4b5724ed0d646dfe14b2900```\
 \
 Enter the Amount of THETA you want to stake to this node and click “**Deposit Stake**". Note that you need to delegate **at least 10,000 THETA**.
 
@@ -32,7 +32,7 @@ Once your wallet is unlocked, click the “**Stakes**” tab at the bottom of th
 
 <a href="url"><img src="./images/mobile_wallet_main.png" align="center" height="25%" width="25%" ></a>
 
-In the **Guardian Node Holder (Summary)** field of the Theta Wallet app, click the **QR code icon** and use your device to scan the QR code from the GPooL Delegation page.
+In the **Guardian Node Holder (Summary)** field of the Theta Wallet app, click the **QR code icon** and use your device to scan the QR code from the Node-Alliance Delegation page.
 
 <a href="url"><img src="./images/mobile_wallet_deposit.png" align="center" height="33%" width="33%" ></a>
 
